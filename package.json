@@ -3,11 +3,11 @@
 	"version": "1.0.0.",
 	"description": "",
 	"author": {
-		"name": "plexname"
+		"name": "Luteek"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/plexname/plex-name.git"
+		"url": "https://github.com/Luteek/plex.git"
 	},
 	"dependencies": {
 		"code-proxy": "^1.2.21",
